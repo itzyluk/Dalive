@@ -1,0 +1,87 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dalive.com" resolutions="1x" timestamp="1591832899381">
+  <folder name="css">
+    <file name="site_global.css" crc="271324114"/>
+    <file name="master_a-p_g_-maestra.css" crc="307935640" ref="acerca:index:testimonios:contacto:blog"/>
+    <file name="acerca.css" crc="4045252586" ref="acerca"/>
+    <file name="index.css" crc="3772659452" ref="index"/>
+    <file name="testimonios.css" crc="432724548" ref="testimonios"/>
+    <file name="contacto.css" crc="4066013952" ref="contacto"/>
+    <file name="blog.css" crc="4076897178" ref="blog"/>
+  </folder>
+  <folder name="assets">
+    <file name="rss_blog_2.0.mulib" crc="372572949" seo="true" mt="1590801850000"/>
+    <file name="cursor.png" crc="4215044463" seo="true" mt="1590886799000"/>
+    <file name="rollover.png" crc="347901381" seo="true" mt="1590886899000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="museutils.js" crc="3939489907" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="whatinput.js" crc="86476730" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="museconfig.js" crc="128606099" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="require.js" crc="4177726516" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="webpro.js" crc="3856315280" ref="testimonios"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="testimonios"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="testimonios"/>
+    <file name="touchswipe.js" crc="3888935200" ref="testimonios"/>
+    <file name="form_check.php" crc="4108222811" ref="testimonios"/>
+    <file name="form_throttle.php" crc="503802655" ref="testimonios"/>
+    <file name="form_process.php" crc="260214869" ref="testimonios"/>
+    <file name="form-u1112.php" crc="70370320" ref="testimonios"/>
+  </folder>
+  <folder name="images">
+    <file name="flores.png" crc="4186165964" seo="true" ref="index:blog:acerca:contacto:testimonios">
+      <caption webpage="index" alt=""/>
+      <caption webpage="testimonios" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="acerca" alt=""/>
+    </file>
+    <file name="u1218-4.png" crc="3799594397" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="u209-4.png" crc="3896434766" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="blank.gif" crc="4208392903" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="u334_states.png" crc="117512926" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="u334_states-r.png" crc="294683655" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="u334_states-m.png" crc="371174037" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="u337_states.png" crc="338230048" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="u337_states-r.png" crc="4248907088" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="u337_states-m.png" crc="3958641458" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="u340_states.png" crc="3977058198" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="u340_states-r.png" crc="381391944" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="u340_states-m.png" crc="3793276068" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="u1206_states.png" crc="284609277" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="u1206_states-r.png" crc="6948546" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="u1206_states-m.png" crc="4054256984" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="u1209_states.png" crc="3819159524" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="u1209_states-r.png" crc="125865033" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="u1209_states-m.png" crc="3903915324" ref="index:blog:acerca:contacto:testimonios"/>
+    <file name="frase.png" crc="4054791365" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="elementos.png" crc="4206392398" seo="true" ref="index:acerca">
+      <caption webpage="index" alt=""/>
+      <caption webpage="acerca" alt=""/>
+    </file>
+    <file name="flores2.png" crc="4188495916" seo="true" ref="acerca">
+      <caption webpage="acerca" alt=""/>
+    </file>
+    <file name="redes.png" crc="3962631394" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="correo.png" crc="32622345" seo="true" ref="testimonios">
+      <caption webpage="testimonios" alt=""/>
+      <caption webpage="testimonios" alt=""/>
+    </file>
+    <file name="cactus.jpg" crc="4128071816" seo="true" ref="testimonios">
+      <caption webpage="testimonios" alt=""/>
+    </file>
+    <file name="trees.jpg" crc="161751756" seo="true" ref="testimonios">
+      <caption webpage="testimonios" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4230702654" seo="true" mt="1591586145293" redirect="true"/>
+  <file name="blog.html" crc="326544403" seo="true" mt="1591586145293" redirect="true"/>
+  <file name="acerca.html" crc="4058810493" seo="true" mt="1591586145293" redirect="true"/>
+  <file name="contacto.html" crc="71446552" seo="true" mt="1591586145293" redirect="true"/>
+  <file name="testimonios.html" crc="415070446" seo="true" mt="1591805729987" redirect="true"/>
+</manifest>
